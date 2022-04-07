@@ -15,8 +15,8 @@ Hi! This is my solution to the [Stats preview card component challenge on Fronte
 
 ### Links
 
-- Solution URL: https://github.com/perezaurus/Mentor-projects/tree/main/statspreview-challenge
-- Live Site URL: https://your-live-site-url.com
+- Solution URL: https://github.com/perezaurus/Mentor-projects
+- Live Site URL: https://perezaurus.github.io/Mentor-projects/
 
 ## My process
 
