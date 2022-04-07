@@ -16,7 +16,7 @@ Hi! This is my solution to the [Stats preview card component challenge on Fronte
 ### Links
 
 - Solution URL: https://github.com/perezaurus/Mentor-projects/tree/main/statspreview-challenge
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: https://your-live-site-url.com
 
 ## My process
 
@@ -43,7 +43,7 @@ I'll like to explore basic animations next.
 ## Author
 
 - Frontend Mentor - [@perezaurus](https://www.frontendmentor.io/profile/perezaurus)
-- [Behance] (https://www.behance.net/perezaurus)
+- [Behance](https://www.behance.net/perezaurus)
 
 ## Acknowledgments
 
